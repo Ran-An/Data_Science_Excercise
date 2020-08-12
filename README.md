@@ -1,5 +1,5 @@
 # Data_Science_Excercise
-Basic data science python and R library
+Basic data science python and R library, and SQL skills
 #### Python 
 - Numpy
 - Pandas
@@ -9,3 +9,8 @@ Basic data science python and R library
 
 #### R
 - Tidyverse
+
+#### SQL
+- DDL
+- DML
+- DCL
